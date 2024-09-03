@@ -4,11 +4,11 @@
 
     public void LoadInitialClients()
     {
-        clients.Add(46023891, new Client("Bautista", "Virgallito", "1126545327", 1000.5f, 3));
-        clients.Add(87654321, new Client("Iara", "Ticozzi", "1162345678", 2500.75f, 5));
-        clients.Add(11223344, new Client("Rodrigo", "Fretes", "1113456789", 1500.0f, 4));
-        clients.Add(44332211, new Client("Franco", "Valenzuela", "1194567890", 3000.9f, 6));
-        clients.Add(12345678, new Client("Federico", "Olive", "1135678901", 500.25f, 2));
+        clients.Add(46023891, new Client("Bautista", "Virgallito", "11 2654-5327", 1000.5f, 3));
+        clients.Add(46272699, new Client("Iara", "Ticozzi", "11 3059-9789", 5500.75f, 5));
+        clients.Add(46499424, new Client("Rodrigo", "Fretes", "11 1345-6789", 1500.0f, 4));
+        clients.Add(36946754, new Client("Franco", "Valenzuela", "11 3502-2054", 9000f, 6));
+        clients.Add(12345678, new Client("Federico", "Olive", "11 3567-8901", 500.25f, 2));
     }
 
     public void LoadNewClients()
@@ -86,10 +86,10 @@
 
     public void ShowClients()
     {
-        Console.WriteLine("Loaded Clients:");
+        Console.WriteLine("Welcome to MVP Database:\n");
         foreach (var client in clients)
         {
-            Console.WriteLine($"ID: {client.Key}, {client.Value}");
+            Console.WriteLine($"ID: {client.Key}\n- {client.Value}\n");
         }
         Console.WriteLine();
     }

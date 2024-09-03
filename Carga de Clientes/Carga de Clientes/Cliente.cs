@@ -17,6 +17,6 @@
 
     public override string ToString()
     {
-        return $"First Name: {FirstName}, Last Name: {LastName}, Phone: {Phone}, Total Spent: {TotalSpent}, Purchases: {Purchases}";
+        return $"First Name: {FirstName}\n- Last Name: {LastName}\n- Phone: {Phone}\n- Total Spent: {TotalSpent}\n- Purchases: {Purchases}\n";
     }
 }

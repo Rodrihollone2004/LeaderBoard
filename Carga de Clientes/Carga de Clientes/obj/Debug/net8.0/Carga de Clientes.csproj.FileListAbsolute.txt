@@ -12,3 +12,17 @@ C:\Users\TotiG\source\repos\Carga de Clientes\Carga de Clientes\obj\Debug\net8.0
 C:\Users\TotiG\source\repos\Carga de Clientes\Carga de Clientes\obj\Debug\net8.0\Carga de Clientes.pdb
 C:\Users\TotiG\source\repos\Carga de Clientes\Carga de Clientes\obj\Debug\net8.0\Carga de Clientes.genruntimeconfig.cache
 C:\Users\TotiG\source\repos\Carga de Clientes\Carga de Clientes\obj\Debug\net8.0\ref\Carga de Clientes.dll
+C:\Users\alu763\Downloads\LeaderBoard-and-Diccionary-main\LeaderBoard-and-Diccionary-main\Carga de Clientes\Carga de Clientes\bin\Debug\net8.0\Carga de Clientes.exe
+C:\Users\alu763\Downloads\LeaderBoard-and-Diccionary-main\LeaderBoard-and-Diccionary-main\Carga de Clientes\Carga de Clientes\bin\Debug\net8.0\Carga de Clientes.deps.json
+C:\Users\alu763\Downloads\LeaderBoard-and-Diccionary-main\LeaderBoard-and-Diccionary-main\Carga de Clientes\Carga de Clientes\bin\Debug\net8.0\Carga de Clientes.runtimeconfig.json
+C:\Users\alu763\Downloads\LeaderBoard-and-Diccionary-main\LeaderBoard-and-Diccionary-main\Carga de Clientes\Carga de Clientes\bin\Debug\net8.0\Carga de Clientes.dll
+C:\Users\alu763\Downloads\LeaderBoard-and-Diccionary-main\LeaderBoard-and-Diccionary-main\Carga de Clientes\Carga de Clientes\bin\Debug\net8.0\Carga de Clientes.pdb
+C:\Users\alu763\Downloads\LeaderBoard-and-Diccionary-main\LeaderBoard-and-Diccionary-main\Carga de Clientes\Carga de Clientes\obj\Debug\net8.0\Carga de Clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alu763\Downloads\LeaderBoard-and-Diccionary-main\LeaderBoard-and-Diccionary-main\Carga de Clientes\Carga de Clientes\obj\Debug\net8.0\Carga de Clientes.AssemblyInfoInputs.cache
+C:\Users\alu763\Downloads\LeaderBoard-and-Diccionary-main\LeaderBoard-and-Diccionary-main\Carga de Clientes\Carga de Clientes\obj\Debug\net8.0\Carga de Clientes.AssemblyInfo.cs
+C:\Users\alu763\Downloads\LeaderBoard-and-Diccionary-main\LeaderBoard-and-Diccionary-main\Carga de Clientes\Carga de Clientes\obj\Debug\net8.0\Carga de Clientes.csproj.CoreCompileInputs.cache
+C:\Users\alu763\Downloads\LeaderBoard-and-Diccionary-main\LeaderBoard-and-Diccionary-main\Carga de Clientes\Carga de Clientes\obj\Debug\net8.0\Carga de Clientes.dll
+C:\Users\alu763\Downloads\LeaderBoard-and-Diccionary-main\LeaderBoard-and-Diccionary-main\Carga de Clientes\Carga de Clientes\obj\Debug\net8.0\refint\Carga de Clientes.dll
+C:\Users\alu763\Downloads\LeaderBoard-and-Diccionary-main\LeaderBoard-and-Diccionary-main\Carga de Clientes\Carga de Clientes\obj\Debug\net8.0\Carga de Clientes.pdb
+C:\Users\alu763\Downloads\LeaderBoard-and-Diccionary-main\LeaderBoard-and-Diccionary-main\Carga de Clientes\Carga de Clientes\obj\Debug\net8.0\Carga de Clientes.genruntimeconfig.cache
+C:\Users\alu763\Downloads\LeaderBoard-and-Diccionary-main\LeaderBoard-and-Diccionary-main\Carga de Clientes\Carga de Clientes\obj\Debug\net8.0\ref\Carga de Clientes.dll
