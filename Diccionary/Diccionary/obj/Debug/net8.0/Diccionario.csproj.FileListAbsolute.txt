@@ -1,0 +1,14 @@
+D:\Estructura de datos\Diccionario\Diccionario\bin\Debug\net8.0\Diccionario.exe
+D:\Estructura de datos\Diccionario\Diccionario\bin\Debug\net8.0\Diccionario.deps.json
+D:\Estructura de datos\Diccionario\Diccionario\bin\Debug\net8.0\Diccionario.runtimeconfig.json
+D:\Estructura de datos\Diccionario\Diccionario\bin\Debug\net8.0\Diccionario.dll
+D:\Estructura de datos\Diccionario\Diccionario\bin\Debug\net8.0\Diccionario.pdb
+D:\Estructura de datos\Diccionario\Diccionario\obj\Debug\net8.0\Diccionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estructura de datos\Diccionario\Diccionario\obj\Debug\net8.0\Diccionario.AssemblyInfoInputs.cache
+D:\Estructura de datos\Diccionario\Diccionario\obj\Debug\net8.0\Diccionario.AssemblyInfo.cs
+D:\Estructura de datos\Diccionario\Diccionario\obj\Debug\net8.0\Diccionario.csproj.CoreCompileInputs.cache
+D:\Estructura de datos\Diccionario\Diccionario\obj\Debug\net8.0\Diccionario.dll
+D:\Estructura de datos\Diccionario\Diccionario\obj\Debug\net8.0\refint\Diccionario.dll
+D:\Estructura de datos\Diccionario\Diccionario\obj\Debug\net8.0\Diccionario.pdb
+D:\Estructura de datos\Diccionario\Diccionario\obj\Debug\net8.0\Diccionario.genruntimeconfig.cache
+D:\Estructura de datos\Diccionario\Diccionario\obj\Debug\net8.0\ref\Diccionario.dll
